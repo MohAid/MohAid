@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MohAid
 - 👀 I’m interested in Python
-- 📫 You could reach me through https://t.me/MohamadAid 
+- 📫 You can reach me at https://t.me/MohamadAid 
